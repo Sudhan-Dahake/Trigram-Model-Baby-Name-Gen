@@ -31,9 +31,9 @@ This project leverages a simple neural network to predict and generate names usi
 
 ## Usage
 
-1. **Train the model:**
+1. **Train the model**
 
-2. **Generate names:**
+2. **Generate names**
 
 Run the script to train the model on the 'names.txt' dataset and generate a list of (100) names.
 ```bash
