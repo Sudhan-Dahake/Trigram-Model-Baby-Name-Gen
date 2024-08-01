@@ -35,7 +35,7 @@ This project leverages a simple neural network to predict and generate names usi
 
 2. **Generate names:**
 
-Run the script to train the model on the 'names.txt' dataset and generate a list (100) names.
+Run the script to train the model on the 'names.txt' dataset and generate a list of (100) names.
 ```bash
 python Trigram_Model_Name_Generator.py
 ```
